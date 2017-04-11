@@ -10,7 +10,7 @@ This plugin shows job listings to your WordPress site from your Bullhorn account
 
 == Description ==
 
-This plugin is a fork of the code for sale at http://bullhorntowordpress.com and additionally incorporates a resume upload extension.
+This plugin is a fork of the code for sale at longhorncoding@gmail.com and additionally incorporates a resume upload extension.
 
 Your need an account at http://www.bullhorn.com, and asked them to provide rest api client ID and secret along with your bullhorn Username and Password.
 
