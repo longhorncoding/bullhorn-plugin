@@ -1,0 +1,25 @@
+.bullhorn-wrapper{
+	background: #f2f2f2;
+	padding: 1rem;
+	margin: .5rem 0;
+}
+.bullhorn-wrapper *:first-child {margin-top: 0}
+.bullhorn-wrapper .status, .float-right{float:right;}
+.cv-form{max-width: 800px;}
+.cv-form .cv-field {margin: 12px 0}
+.cv-form .cv-field input[type=text],.cv-form .cv-field textarea, .cv-form .cv-field select  {border: 1px solid #b2b2b2; width: 100%; padding: 3px 6px}
+.cv-form .cv-field label { display: inline-block; width: 100%}
+@media screen and (min-width: 480px) {
+	.cv-form .cv-field input[type=text],.cv-form .cv-field textarea, .cv-form .cv-field select{ width: 70%}
+	.cv-form .cv-field label { width: 30%}
+}
+.bullhorn-button{
+background: #96E562 !important;
+    padding: 6px 12px !important;
+    color: #fff !important;
+    border-radius: 6px !important;
+    border: none !important;
+    margin: 12px 0 !important;
+	display: inline-block
+}
+.bullhorn-button:hover{box-shadow: 0 0 5px #aaa}
