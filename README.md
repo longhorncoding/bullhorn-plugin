@@ -25,6 +25,8 @@ This section describes how to install the plugin and get it working.
 
 1. Upload the `Longhorn_Listing` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. go to setting > bullhorn, type in client ID, Secret, Username, Password
+4. create a page and place shortcode [bullhorn]
 
 
 You will need to contact to Bullhorn to get your REST API client ID and client Secret.
